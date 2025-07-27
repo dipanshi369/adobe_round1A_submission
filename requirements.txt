@@ -1,0 +1,7 @@
+torch
+transformers
+scikit-learn
+joblib
+accelerate
+pypdf
+sentence-transformers

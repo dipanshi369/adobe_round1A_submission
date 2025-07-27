@@ -1,0 +1,82 @@
+{
+  "title": "2. Type the Content: Enter the title, author, date, and all the headings and paragraphs",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Title: \"The Future of Artificial Intelligence: A Comprehensive Overview\"",
+      "page": 1,
+      "font_size": 16.0,
+      "bbox": [
+        50,
+        742.0,
+        550,
+        758.0
+      ],
+      "y0": 742.0
+    },
+    {
+      "level": "H1",
+      "text": "2. Type the Content: Enter the title, author, date, and all the headings and paragraphs",
+      "page": 3,
+      "font_size": 22.0,
+      "bbox": [
+        50,
+        730.0,
+        550,
+        752.0
+      ],
+      "y0": 730.0
+    },
+    {
+      "level": "H1",
+      "text": "3. Apply Styles: This is the most important step!",
+      "page": 3,
+      "font_size": 22.0,
+      "bbox": [
+        50,
+        692.0,
+        550,
+        714.0
+      ],
+      "y0": 692.0
+    },
+    {
+      "level": "H1",
+      "text": "4. Add Page Breaks: Insert manual page breaks (e.g., Ctrl+Enter or Cmd+Enter) to",
+      "page": 3,
+      "font_size": 22.0,
+      "bbox": [
+        50,
+        542.0,
+        550,
+        564.0
+      ],
+      "y0": 542.0
+    },
+    {
+      "level": "H1",
+      "text": "5. Export/Save as PDF:",
+      "page": 3,
+      "font_size": 22.0,
+      "bbox": [
+        50,
+        504.0,
+        550,
+        526.0
+      ],
+      "y0": 504.0
+    }
+  ],
+  "metadata": {
+    "total_blocks": 77,
+    "heading_blocks": 5,
+    "pages": 3,
+    "pdf_filename": "sample.pdf",
+    "model_classes": [
+      "Body",
+      "H1",
+      "H2",
+      "H3"
+    ]
+  }
+}

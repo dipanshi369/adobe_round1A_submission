@@ -1,0 +1,57 @@
+{
+  "classification_report": {
+    "Body": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "H1": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "H2": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9090909090909091,
+      "support": 6.0
+    },
+    "H3": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 3.0
+    },
+    "accuracy": 0.9545454545454546,
+    "macro avg": {
+      "precision": 0.9375,
+      "recall": 0.9583333333333334,
+      "f1-score": 0.9415584415584416,
+      "support": 22.0
+    },
+    "weighted avg": {
+      "precision": 0.9659090909090909,
+      "recall": 0.9545454545454546,
+      "f1-score": 0.9557260920897283,
+      "support": 22.0
+    }
+  },
+  "test_samples": 22,
+  "training_samples": 87,
+  "total_examples": 5,
+  "feature_dimensions": 386,
+  "classes": [
+    "Body",
+    "H1",
+    "H2",
+    "H3"
+  ],
+  "model_parameters": {
+    "max_iter": 1000,
+    "multi_class": "multinomial",
+    "solver": "lbfgs",
+    "class_weight": "balanced"
+  }
+}

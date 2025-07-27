@@ -1,0 +1,26 @@
+{
+  "embedder_model": "all-MiniLM-L6-v2",
+  "feature_order": [
+    "text_embeddings",
+    "font_size",
+    "y_position"
+  ],
+  "classes": [
+    "Body",
+    "H1",
+    "H2",
+    "H3"
+  ],
+  "embedding_dimension": 384,
+  "usage_example": {
+    "input_format": {
+      "text": "Chapter 1: Introduction",
+      "font_size": 22,
+      "y0": 95
+    },
+    "output_format": {
+      "predicted_label": "H1",
+      "confidence": 0.95
+    }
+  }
+}

@@ -1,0 +1,683 @@
+[
+  {
+    "example": "Climate Change Science",
+    "data": [
+      {
+        "text": "Climate Change and Global Warming",
+        "font_size": 22,
+        "y0": 95,
+        "label": "H1"
+      },
+      {
+        "text": "1.1 Greenhouse Effect",
+        "font_size": 18,
+        "y0": 140,
+        "label": "H2"
+      },
+      {
+        "text": "The greenhouse effect occurs when atmospheric gases trap heat from the sun.",
+        "font_size": 12,
+        "y0": 160,
+        "label": "Body"
+      },
+      {
+        "text": "1.2 Carbon Emissions",
+        "font_size": 18,
+        "y0": 200,
+        "label": "H2"
+      },
+      {
+        "text": "Human activities have significantly increased atmospheric CO2 levels since the Industrial Revolution.",
+        "font_size": 12,
+        "y0": 220,
+        "label": "Body"
+      },
+      {
+        "text": "1.2.1 Fossil Fuels",
+        "font_size": 16,
+        "y0": 260,
+        "label": "H3"
+      },
+      {
+        "text": "Burning coal, oil, and natural gas releases stored carbon into the atmosphere.",
+        "font_size": 12,
+        "y0": 280,
+        "label": "Body"
+      },
+      {
+        "text": "1.2.2 Deforestation",
+        "font_size": 16,
+        "y0": 320,
+        "label": "H3"
+      },
+      {
+        "text": "Forest clearing reduces the Earth's capacity to absorb carbon dioxide.",
+        "font_size": 12,
+        "y0": 340,
+        "label": "Body"
+      },
+      {
+        "text": "2. Environmental Impacts",
+        "font_size": 22,
+        "y0": 380,
+        "label": "H1"
+      },
+      {
+        "text": "2.1 Rising Sea Levels",
+        "font_size": 18,
+        "y0": 420,
+        "label": "H2"
+      },
+      {
+        "text": "Thermal expansion and melting ice sheets contribute to global sea level rise.",
+        "font_size": 12,
+        "y0": 440,
+        "label": "Body"
+      },
+      {
+        "text": "2.2 Extreme Weather Events",
+        "font_size": 18,
+        "y0": 480,
+        "label": "H2"
+      },
+      {
+        "text": "Climate change increases the frequency and intensity of storms, droughts, and heatwaves.",
+        "font_size": 12,
+        "y0": 500,
+        "label": "Body"
+      },
+      {
+        "text": "3. Mitigation Strategies",
+        "font_size": 22,
+        "y0": 540,
+        "label": "H1"
+      },
+      {
+        "text": "3.1 Renewable Energy",
+        "font_size": 18,
+        "y0": 580,
+        "label": "H2"
+      },
+      {
+        "text": "Solar, wind, and hydroelectric power offer clean alternatives to fossil fuels.",
+        "font_size": 12,
+        "y0": 600,
+        "label": "Body"
+      },
+      {
+        "text": "3.2 Carbon Capture",
+        "font_size": 18,
+        "y0": 640,
+        "label": "H2"
+      },
+      {
+        "text": "Technologies to capture and store atmospheric carbon are being developed.",
+        "font_size": 12,
+        "y0": 660,
+        "label": "Body"
+      },
+      {
+        "text": "Future Outlook",
+        "font_size": 22,
+        "y0": 700,
+        "label": "H1"
+      },
+      {
+        "text": "Immediate action is required to limit global temperature rise to 1.5°C.",
+        "font_size": 12,
+        "y0": 720,
+        "label": "Body"
+      }
+    ]
+  },
+  {
+    "example": "Digital Marketing Fundamentals",
+    "data": [
+      {
+        "text": "Digital Marketing in the Modern Era",
+        "font_size": 22,
+        "y0": 95,
+        "label": "H1"
+      },
+      {
+        "text": "1.1 Search Engine Optimization",
+        "font_size": 18,
+        "y0": 140,
+        "label": "H2"
+      },
+      {
+        "text": "SEO involves optimizing websites to rank higher in search engine results.",
+        "font_size": 12,
+        "y0": 160,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.1 On-Page SEO",
+        "font_size": 16,
+        "y0": 200,
+        "label": "H3"
+      },
+      {
+        "text": "Content optimization, meta tags, and internal linking improve page relevance.",
+        "font_size": 12,
+        "y0": 220,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.2 Off-Page SEO",
+        "font_size": 16,
+        "y0": 260,
+        "label": "H3"
+      },
+      {
+        "text": "Backlinks and social signals help establish domain authority.",
+        "font_size": 12,
+        "y0": 280,
+        "label": "Body"
+      },
+      {
+        "text": "1.2 Social Media Marketing",
+        "font_size": 18,
+        "y0": 320,
+        "label": "H2"
+      },
+      {
+        "text": "Platforms like Facebook, Instagram, and LinkedIn enable direct customer engagement.",
+        "font_size": 12,
+        "y0": 340,
+        "label": "Body"
+      },
+      {
+        "text": "2. Content Strategy",
+        "font_size": 22,
+        "y0": 380,
+        "label": "H1"
+      },
+      {
+        "text": "2.1 Blog Marketing",
+        "font_size": 18,
+        "y0": 420,
+        "label": "H2"
+      },
+      {
+        "text": "Regular, valuable content attracts and retains target audiences.",
+        "font_size": 12,
+        "y0": 440,
+        "label": "Body"
+      },
+      {
+        "text": "2.2 Video Marketing",
+        "font_size": 18,
+        "y0": 480,
+        "label": "H2"
+      },
+      {
+        "text": "Video content generates higher engagement rates across all platforms.",
+        "font_size": 12,
+        "y0": 500,
+        "label": "Body"
+      },
+      {
+        "text": "3. Analytics and Measurement",
+        "font_size": 22,
+        "y0": 540,
+        "label": "H1"
+      },
+      {
+        "text": "3.1 Key Performance Indicators",
+        "font_size": 18,
+        "y0": 580,
+        "label": "H2"
+      },
+      {
+        "text": "Metrics like conversion rate, cost per acquisition, and customer lifetime value guide strategy.",
+        "font_size": 12,
+        "y0": 600,
+        "label": "Body"
+      },
+      {
+        "text": "3.2 A/B Testing",
+        "font_size": 18,
+        "y0": 640,
+        "label": "H2"
+      },
+      {
+        "text": "Systematic testing of variations helps optimize campaign performance.",
+        "font_size": 12,
+        "y0": 660,
+        "label": "Body"
+      },
+      {
+        "text": "Conclusion",
+        "font_size": 22,
+        "y0": 700,
+        "label": "H1"
+      },
+      {
+        "text": "Successful digital marketing requires continuous adaptation to changing technologies and consumer behaviors.",
+        "font_size": 12,
+        "y0": 720,
+        "label": "Body"
+      }
+    ]
+  },
+  {
+    "example": "Renewable Energy Systems",
+    "data": [
+      {
+        "text": "Renewable Energy Technologies",
+        "font_size": 22,
+        "y0": 95,
+        "label": "H1"
+      },
+      {
+        "text": "1.1 Solar Power",
+        "font_size": 18,
+        "y0": 140,
+        "label": "H2"
+      },
+      {
+        "text": "Photovoltaic cells convert sunlight directly into electrical energy.",
+        "font_size": 12,
+        "y0": 160,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.1 Solar Panel Efficiency",
+        "font_size": 16,
+        "y0": 200,
+        "label": "H3"
+      },
+      {
+        "text": "Modern silicon panels achieve 20-22% efficiency in converting sunlight to electricity.",
+        "font_size": 12,
+        "y0": 220,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.2 Solar Thermal Systems",
+        "font_size": 16,
+        "y0": 260,
+        "label": "H3"
+      },
+      {
+        "text": "Concentrated solar power uses mirrors to focus sunlight for heat generation.",
+        "font_size": 12,
+        "y0": 280,
+        "label": "Body"
+      },
+      {
+        "text": "1.2 Wind Energy",
+        "font_size": 18,
+        "y0": 320,
+        "label": "H2"
+      },
+      {
+        "text": "Wind turbines harness kinetic energy from moving air masses.",
+        "font_size": 12,
+        "y0": 340,
+        "label": "Body"
+      },
+      {
+        "text": "1.2.1 Onshore Wind Farms",
+        "font_size": 16,
+        "y0": 380,
+        "label": "H3"
+      },
+      {
+        "text": "Land-based installations benefit from established infrastructure and lower costs.",
+        "font_size": 12,
+        "y0": 400,
+        "label": "Body"
+      },
+      {
+        "text": "1.2.2 Offshore Wind",
+        "font_size": 16,
+        "y0": 440,
+        "label": "H3"
+      },
+      {
+        "text": "Ocean-based turbines access stronger, more consistent wind resources.",
+        "font_size": 12,
+        "y0": 460,
+        "label": "Body"
+      },
+      {
+        "text": "2. Energy Storage Solutions",
+        "font_size": 22,
+        "y0": 500,
+        "label": "H1"
+      },
+      {
+        "text": "2.1 Battery Technologies",
+        "font_size": 18,
+        "y0": 540,
+        "label": "H2"
+      },
+      {
+        "text": "Lithium-ion batteries provide grid-scale storage for intermittent renewable sources.",
+        "font_size": 12,
+        "y0": 560,
+        "label": "Body"
+      },
+      {
+        "text": "2.2 Pumped Hydro Storage",
+        "font_size": 18,
+        "y0": 600,
+        "label": "H2"
+      },
+      {
+        "text": "Water reservoirs store energy by pumping water uphill during excess generation.",
+        "font_size": 12,
+        "y0": 620,
+        "label": "Body"
+      },
+      {
+        "text": "3. Grid Integration Challenges",
+        "font_size": 22,
+        "y0": 660,
+        "label": "H1"
+      },
+      {
+        "text": "3.1 Intermittency Management",
+        "font_size": 18,
+        "y0": 700,
+        "label": "H2"
+      },
+      {
+        "text": "Smart grid technologies balance supply and demand variations in real-time.",
+        "font_size": 12,
+        "y0": 720,
+        "label": "Body"
+      },
+      {
+        "text": "Future Prospects",
+        "font_size": 22,
+        "y0": 760,
+        "label": "H1"
+      },
+      {
+        "text": "Renewable energy costs continue declining while efficiency improvements accelerate adoption.",
+        "font_size": 12,
+        "y0": 780,
+        "label": "Body"
+      }
+    ]
+  },
+  {
+    "example": "Machine Learning Algorithms",
+    "data": [
+      {
+        "text": "Introduction to Machine Learning",
+        "font_size": 22,
+        "y0": 95,
+        "label": "H1"
+      },
+      {
+        "text": "1.1 Supervised Learning",
+        "font_size": 18,
+        "y0": 140,
+        "label": "H2"
+      },
+      {
+        "text": "Algorithms learn from labeled training data to make predictions on new inputs.",
+        "font_size": 12,
+        "y0": 160,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.1 Classification",
+        "font_size": 16,
+        "y0": 200,
+        "label": "H3"
+      },
+      {
+        "text": "Decision trees, random forests, and support vector machines categorize data into discrete classes.",
+        "font_size": 12,
+        "y0": 220,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.2 Regression",
+        "font_size": 16,
+        "y0": 260,
+        "label": "H3"
+      },
+      {
+        "text": "Linear and polynomial regression predict continuous numerical values.",
+        "font_size": 12,
+        "y0": 280,
+        "label": "Body"
+      },
+      {
+        "text": "1.2 Unsupervised Learning",
+        "font_size": 18,
+        "y0": 320,
+        "label": "H2"
+      },
+      {
+        "text": "These methods find hidden patterns in data without labeled examples.",
+        "font_size": 12,
+        "y0": 340,
+        "label": "Body"
+      },
+      {
+        "text": "1.2.1 Clustering",
+        "font_size": 16,
+        "y0": 380,
+        "label": "H3"
+      },
+      {
+        "text": "K-means and hierarchical clustering group similar data points together.",
+        "font_size": 12,
+        "y0": 400,
+        "label": "Body"
+      },
+      {
+        "text": "1.2.2 Dimensionality Reduction",
+        "font_size": 16,
+        "y0": 440,
+        "label": "H3"
+      },
+      {
+        "text": "Principal component analysis reduces feature complexity while preserving information.",
+        "font_size": 12,
+        "y0": 460,
+        "label": "Body"
+      },
+      {
+        "text": "2. Neural Networks",
+        "font_size": 22,
+        "y0": 500,
+        "label": "H1"
+      },
+      {
+        "text": "2.1 Feedforward Networks",
+        "font_size": 18,
+        "y0": 540,
+        "label": "H2"
+      },
+      {
+        "text": "Multi-layer perceptrons process information in a single forward direction.",
+        "font_size": 12,
+        "y0": 560,
+        "label": "Body"
+      },
+      {
+        "text": "2.2 Convolutional Networks",
+        "font_size": 18,
+        "y0": 600,
+        "label": "H2"
+      },
+      {
+        "text": "CNNs excel at image recognition through specialized feature detection layers.",
+        "font_size": 12,
+        "y0": 620,
+        "label": "Body"
+      },
+      {
+        "text": "3. Model Evaluation",
+        "font_size": 22,
+        "y0": 660,
+        "label": "H1"
+      },
+      {
+        "text": "3.1 Cross-Validation",
+        "font_size": 18,
+        "y0": 700,
+        "label": "H2"
+      },
+      {
+        "text": "K-fold validation ensures models generalize well to unseen data.",
+        "font_size": 12,
+        "y0": 720,
+        "label": "Body"
+      },
+      {
+        "text": "Summary",
+        "font_size": 22,
+        "y0": 760,
+        "label": "H1"
+      },
+      {
+        "text": "Machine learning combines statistical methods with computational power to extract insights from data.",
+        "font_size": 12,
+        "y0": 780,
+        "label": "Body"
+      }
+    ]
+  },
+  {
+    "example": "Cybersecurity Fundamentals",
+    "data": [
+      {
+        "text": "Modern Cybersecurity Practices",
+        "font_size": 22,
+        "y0": 95,
+        "label": "H1"
+      },
+      {
+        "text": "1.1 Threat Landscape",
+        "font_size": 18,
+        "y0": 140,
+        "label": "H2"
+      },
+      {
+        "text": "Cyber threats have evolved from simple viruses to sophisticated nation-state attacks.",
+        "font_size": 12,
+        "y0": 160,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.1 Malware",
+        "font_size": 16,
+        "y0": 200,
+        "label": "H3"
+      },
+      {
+        "text": "Ransomware, trojans, and spyware represent major categories of malicious software.",
+        "font_size": 12,
+        "y0": 220,
+        "label": "Body"
+      },
+      {
+        "text": "1.1.2 Social Engineering",
+        "font_size": 16,
+        "y0": 260,
+        "label": "H3"
+      },
+      {
+        "text": "Phishing and pretexting exploit human psychology rather than technical vulnerabilities.",
+        "font_size": 12,
+        "y0": 280,
+        "label": "Body"
+      },
+      {
+        "text": "1.2 Network Security",
+        "font_size": 18,
+        "y0": 320,
+        "label": "H2"
+      },
+      {
+        "text": "Firewalls, intrusion detection systems, and VPNs protect network infrastructure.",
+        "font_size": 12,
+        "y0": 340,
+        "label": "Body"
+      },
+      {
+        "text": "2. Data Protection",
+        "font_size": 22,
+        "y0": 380,
+        "label": "H1"
+      },
+      {
+        "text": "2.1 Encryption",
+        "font_size": 18,
+        "y0": 420,
+        "label": "H2"
+      },
+      {
+        "text": "AES-256 and RSA algorithms secure data both at rest and in transit.",
+        "font_size": 12,
+        "y0": 440,
+        "label": "Body"
+      },
+      {
+        "text": "2.2 Access Control",
+        "font_size": 18,
+        "y0": 480,
+        "label": "H2"
+      },
+      {
+        "text": "Multi-factor authentication and role-based permissions limit unauthorized access.",
+        "font_size": 12,
+        "y0": 500,
+        "label": "Body"
+      },
+      {
+        "text": "3. Incident Response",
+        "font_size": 22,
+        "y0": 540,
+        "label": "H1"
+      },
+      {
+        "text": "3.1 Detection and Analysis",
+        "font_size": 18,
+        "y0": 580,
+        "label": "H2"
+      },
+      {
+        "text": "Security information and event management systems aggregate and analyze threat indicators.",
+        "font_size": 12,
+        "y0": 600,
+        "label": "Body"
+      },
+      {
+        "text": "3.2 Recovery Planning",
+        "font_size": 18,
+        "y0": 640,
+        "label": "H2"
+      },
+      {
+        "text": "Business continuity plans ensure rapid restoration of critical systems after attacks.",
+        "font_size": 12,
+        "y0": 660,
+        "label": "Body"
+      },
+      {
+        "text": "Conclusion",
+        "font_size": 22,
+        "y0": 700,
+        "label": "H1"
+      },
+      {
+        "text": "Effective cybersecurity requires layered defenses and continuous adaptation to emerging threats.",
+        "font_size": 12,
+        "y0": 720,
+        "label": "Body"
+      }
+    ]
+  }
+
+]
+
