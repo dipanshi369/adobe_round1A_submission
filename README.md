@@ -75,8 +75,21 @@ adobe_submission/
 │
 ├── dockerfile
 └── venv/  
+
+
+
+
 build command
+
+
+
 docker build -t adobe-submission .
+
+
+
 run commmand 
+
+
+
 docker run adobe-submission
 
