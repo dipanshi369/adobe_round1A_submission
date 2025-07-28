@@ -79,17 +79,14 @@ adobe_submission/
 
 
 
-build command
-
-
+🛠 Build Docker Image
 
 docker build -t adobe-submission .
 
 
 
-run commmand 
-
-
+🚀 Run Docker Container with Argument
 
 docker run adobe-submission
+
 
